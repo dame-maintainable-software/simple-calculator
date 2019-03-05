@@ -151,9 +151,10 @@ The merging can also be done based on branches only present on the remote
 
 --
 
-## Other important aspects
+## Other aspects
 
-There are many other aspects which we unfortunately can not cover today
+There are many more features and aspects we can not cover today
 
 * Keeping the log clear of unnecessary commits
-  * Sqashing of multiple commits into a single one
+    * Sqashing of multiple commits into a single one
+* Using git to help identify when a part of your project got broken

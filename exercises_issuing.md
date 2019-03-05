@@ -1,14 +1,8 @@
-# Exercises 3
+# Hands-on time
 
-* The `gksolite` module in the repository was recently renamed
-* There are still remnants of this renaming in the code
-    * For example in `gksolite/gksolite_unittests/test_mixins.py`
-
---
-
-# Your Task
-
-* Create an *issue* in the [GKS-2018-CollaborativeSoftware repository](https://github.com/GKS-2018-CollaborativeSoftware/workshop-collaborative_software)
-* Include references to the affected code
-* Mention and request feedback from a colleague
-* Assign the issue to your neighbour
+* As seen  before the simple-calculator is missing some functionalities
+* Create an *issue* in the [maintainable-software repository](https://github.com/dame-maintainable-software/maintainable-software)
+    * Try to use some of the features github provides you with
+    * Include references to the affected code
+    * Mention and request feedback from a colleague
+    * Assign the issue to your neighbour

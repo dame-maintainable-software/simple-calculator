@@ -1,7 +1,7 @@
 # Hands-on time
 
 * These slides are available at https://dame-maintainable-software.github.io/maintainable-software
-* For this course I setup a small project on github
+* For this course we will use a small project on github
     * https://github.com/dame-maintainable-software
 * Get involved and be part of the team!
 
@@ -12,9 +12,8 @@
 		create a GitHub account
 		write your GitHub identification on a piece of paper
 	while not invited:
-		sleep
+		proceed with the first task
 
-* You can already proceed with the tasks below without beeing invited
 
 --
 
