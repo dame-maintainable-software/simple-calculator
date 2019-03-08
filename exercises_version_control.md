@@ -2,7 +2,7 @@
 
 * These slides are available at https://dame-maintainable-software.github.io/maintainable-software
 * For this course we will use a small project on github
-    * https://github.com/dame-maintainable-software
+    * https://github.com/dame-maintainable-software/maintainable-software
 * Get involved and be part of the team!
 
 
