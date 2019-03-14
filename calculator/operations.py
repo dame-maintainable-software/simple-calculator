@@ -10,7 +10,7 @@ def subtract(lhs, rhs):
 
 def multiply(lhs, rhs):
     """multiply the two numbers lhs and rhs"""
-    return None
+    return lhs*rhs 
 
 
 def devide(lhs, rhs):
