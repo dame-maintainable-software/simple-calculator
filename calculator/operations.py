@@ -5,7 +5,7 @@ def add(lhs, rhs):
 
 def subtract(lhs, rhs):
     """subtract the two numbers lhs and rhs. In this implementation we use our own add function"""
-    return lhs
+    return None
 
 
 def multiply(lhs, rhs):
