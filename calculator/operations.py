@@ -13,6 +13,6 @@ def multiply(lhs, rhs):
     return lhs*rhs
 
 
-def devide(lhs, rhs):
-    """devide the numbers lhs by rhs. In this implementation we use our own multiply function"""
+def divide(lhs, rhs):
+    """divide the numbers lhs by rhs. In this implementation we use our own multiply function"""
     return lhs/rhs
