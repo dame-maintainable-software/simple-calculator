@@ -15,7 +15,8 @@ def parse(inputs):
         "+": operations.add,
         "-": operations.subtract,
         "x": operations.multiply,
-        "/": operations.devide
+        "/": operations.devide,
+        "%": operations.modulo
     }
     logger.debug("Initiating input parsing")
 
