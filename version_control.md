@@ -60,6 +60,7 @@ We focus on `git` as an example for a decentralised version control
 	# You can also check what you did lately
 	$ git show
 
+
 --
 
 ## Useful configurations
@@ -93,6 +94,15 @@ Use colors to show `git` information
 
 * There are predefined templates for programming languages, operating systems, etc.
 	* e.g. check [https://github.com/github/gitignore](https://github.com/github/gitignore)
+
+--
+
+## Commit Messages
+
+* When commiting write meaningful messages
+	* Include references to tickets if available
+
+![Git Commit Messages](resources/git_commit.png)
 
 --
 

@@ -69,12 +69,14 @@ Larger projects usually require more complex workflows to manage simultaneous co
 
 #### Merging a feature branch
 
+
 	$ git checkout master
 	# create a new commit to retain historical infos
 	$ git merge --no-ff <feature>
 	# delete the branch after merging
 	$ git branch -d <feature>
 	$ git push origin master
+
 
 --
 
@@ -142,12 +144,8 @@ The merging can also be done based on branches only present on the remote
 * Commit often
 * Try not to mix up different things into one commit, make up logical units
 * Think about your commit messages
-	* Include references to tickets if available (we will come back to this later)
-
-	$ git commit -m "$(curl -sL https://bit.ly/funny-mesg | sh)"
-
 * Branching is cheap
-    * Use dedicated branches for each feature
+
 
 --
 
